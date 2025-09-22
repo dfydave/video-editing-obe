@@ -1,0 +1,41 @@
+[
+{
+"id": "capcut-desktop",
+"name": "CapCut Desktop",
+"url": "https://www.capcut.com/",
+"category": "Editing",
+"tags": ["free", "beginner", "templates"],
+"pricing": "Free, paid pro tier",
+"summary": "Quick editor for shorts and long form, great templates and auto-captions.",
+"tutorial": [
+"Import your clips and drop them on the timeline",
+"Use Auto Captions, then adjust styles",
+"Export H.264 MP4, 1080p for YouTube"
+],
+"useCases": ["YouTube Automation", "Shorts", "Repurposing"],
+"skill": "Beginner",
+"timeToLearn": "30 min",
+"badges": {"ai": true, "trial": false, "beginnerFriendly": true},
+"addedBy": "community",
+"addedAt": "2025-09-22"
+},
+{
+"id": "davinci-resolve",
+"name": "DaVinci Resolve",
+"url": "https://www.blackmagicdesign.com/products/davinciresolve/",
+"category": "Editing",
+"tags": ["color", "free", "pro"],
+"pricing": "Free, Studio \$295 one time",
+"summary": "Pro grade editing, color, audio and VFX in one app.",
+"tutorial": [
+"Create a new project on the Edit page",
+"Add media pool clips and assemble rough cut",
+"Color correct on the Color page, deliver as H.264"
+],
+"useCases": ["Long form", "Documentary", "Client work"],
+"skill": "Intermediate",
+"timeToLearn": "2–4 hrs",
+"badges": {"ai": false, "trial": true, "beginnerFriendly": false},
+"addedBy": "admin",
+"addedAt": "2025-09-22"
+}
